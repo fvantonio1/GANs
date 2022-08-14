@@ -1,2 +1,2 @@
 # GANs
-Simple GAN for digit generation
+Simple DCGAN for digit generation
